@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi ="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://aarontibbetts.github.io/cse445_a4/Hotels.xsd">
+    <Hotel>
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E.7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearstAirport>Sky Harbor </NearstAirport>
+        </Address>
+        <Rating>4.2</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Comfort Suites</Name>
+        <Phone>623-462-9802</Phone>
+        <Address>
+            <Number>8473</Number>
+            <Street>W.Paradise Ln</Street>
+            <City>Peoria</City>
+            <State>AZ</State>
+            <Zip>85382</Zip>
+            <NearstAirport>Sky Harbor </NearstAirport>
+        </Address>
+        <Rating>4.0</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Hampton Inn</Name>
+        <Phone>877-529-5007</Phone>
+        <Address>
+            <Number>8408</Number>
+            <Street>@.Paradise Ln St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>La Quinta Inn and Suites</Name>
+        <Phone>623-487-1900</Phone>
+        <Address>
+            <Number>16321</Number>
+            <Street>N.83rd Ave</Street>
+            <City>Peoria</City>
+            <State>AZ</State>
+            <Zip>85382</Zip>
+            <NearstAirport>Sky Harbor </NearstAirport>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Omni</Name>
+        <Phone>602-794-8600</Phone>
+        <Address>
+            <Number>7</Number>
+            <Street>E.University Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>4.5</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Embassy Suites</Name>
+        <Phone>480-897-7444</Phone>
+        <Address>
+            <Number>4400</Number>
+            <Street>S.Rural Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85282</Zip>
+            <NearstAirport>Sky Harbor </NearstAirport>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Hampton Inn and Suites</Name>
+        <Phone>480-941-3441</Phone>
+        <Address>
+            <Number>1415</Number>
+            <Street>N.Scottsdale Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85288</Zip>
+            <NearstAirport>Sky Harbor </NearstAirport>
+        </Address>
+        <Rating>4.5</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Hyatt</Name>
+        <Name>Hyatt Place </Name>
+        <Phone>480-804-9544</Phone>
+        <Address>
+            <Number>1413</Number>
+            <Street>W.Rio Salado Pkwy</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearstAirport>Sky Harbor </NearstAirport>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>SpringHill Suites</Name>
+        <Phone>480-968-8222</Phone>
+        <Address>
+            <Number>1601</Number>
+            <Street>W.Rio Salado Pkwy</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearstAirport>Sky Harbor </NearstAirport>
+    </Hotel>
+    <Hotel>
+        <Name>Hotel Tempest</Name>
+        <Address>
+            <Number>1375</Number>
+            <Street>E.University Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearstAirport>Sky Harbor </NearstAirport>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Wyndham</Name>
+        <Phone>480-967-6600</Phone>
+        <Address>
+            <Number>1600</Number>
+            <Street>S.52nd St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+        <Rating>3.5</Rating>
+    </Hotel>
+</Hotel>
