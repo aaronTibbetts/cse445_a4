@@ -111,8 +111,9 @@
             <Street>W.Rio Salado Pkwy</Street>
             <City>Tempe</City>
             <State>AZ</State>
-            <Zip>85281</Zip>
+            <Zip>85281<Zip>
             <NearstAirport>Sky Harbor </NearstAirport>
+        </Address>
     </Hotel>
     <Hotel>
         <Name>Hotel Tempest</Name>
