@@ -11,7 +11,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
         <Rating>4.2</Rating>
     </Hotel>
@@ -24,7 +24,7 @@
             <City>Peoria</City>
             <State>AZ</State>
             <Zip>85382</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
         <Rating>4.0</Rating>
     </Hotel>
@@ -37,7 +37,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
     </Hotel>
     <Hotel>
@@ -49,7 +49,7 @@
             <City>Peoria</City>
             <State>AZ</State>
             <Zip>85382</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
     </Hotel>
     <Hotel>
@@ -61,7 +61,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
         <Rating>4.5</Rating>
     </Hotel>
@@ -74,7 +74,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85282</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
     </Hotel>
     <Hotel>
@@ -86,7 +86,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85288</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
         <Rating>4.5</Rating>
     </Hotel>
@@ -99,7 +99,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
     </Hotel>
     <Hotel>
@@ -111,7 +111,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
     </Hotel>
     <Hotel>
@@ -123,7 +123,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
     </Hotel>
     <Hotel>
@@ -135,7 +135,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-            <nearstAirport>Sky Harbor</nearstAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
         <Rating>3.5</Rating>
     </Hotel>
