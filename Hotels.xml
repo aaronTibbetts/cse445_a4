@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <Hotels xmlns:xsi ="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="https://aarontibbetts.github.io/cse445_a4/Hotels.xsd">
     <Hotel>
