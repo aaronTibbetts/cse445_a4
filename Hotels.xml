@@ -33,7 +33,7 @@
         <Phone>877-529-5007</Phone>
         <Address>
             <Number>8408</Number>
-            <Street>@.Paradise Ln St</Street>
+            <Street>W.Paradise Ln St</Street>
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
@@ -55,6 +55,7 @@
     <Hotel>
         <Name>Omni</Name>
         <Phone>602-794-8600</Phone>
+        <Phone>800-937-8461</Phone>
         <Address>
             <Number>7</Number>
             <Street>E.University Dr</Street>
@@ -80,6 +81,7 @@
     <Hotel>
         <Name>Hampton Inn and Suites</Name>
         <Phone>480-941-3441</Phone>
+        <Phone>800-937-8461</Phone>
         <Address>
             <Number>1415</Number>
             <Street>N.Scottsdale Rd</Street>
@@ -129,6 +131,7 @@
     <Hotel>
         <Name>Wyndham</Name>
         <Phone>480-967-6600</Phone>
+        <Phone>800-937-8461</Phone>
         <Address>
             <Number>1600</Number>
             <Street>S.52nd St</Street>
