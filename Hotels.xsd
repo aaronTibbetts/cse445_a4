@@ -12,7 +12,7 @@
                     <xsd:element name="Street" type="xsd:string"/>
                     <xsd:element name="City" type="xsd:string"/>
                     <xsd:element name ="State" type="xsd:string"/>
-                    <xsd:element name ="Zip" type="xsd:integer"/>
+                    <xsd:element name ="Zip" type="xsd:string"/>
                 </xsd:sequence>
                 <xsd:attribute name ="NearstAirport" type="xsd:string" use ="required"/>
             </xsd:complexType>
